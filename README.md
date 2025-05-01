@@ -1,5 +1,4 @@
 # ms-fabric-lakehouse-lab1
-# Microsoft Fabric Lakehouse Lab
 
 This lab demonstrates step-by-step how to create a Lakehouse on Microsoft Fabric and explore its basic features. It focuses on the concepts of data lakes, which emerged as an alternative to data warehouses for large-scale data analytics, and data lakehouses, which combine the best features of both approaches. The lab shows how a Lakehouse in Microsoft Fabric provides highly scalable file storage on a OneLake store and a metastore for relational objects based on the open-source Delta Lake format.
 
